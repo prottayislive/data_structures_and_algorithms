@@ -45,3 +45,22 @@ void main()
   }
   
  In above code “Hello World!!!” will print N times. So, time complexity of above code is O(N).
+ 
+ Tsum=1 + 2 * (n+1) + 2 * n + 1 = 4n + 4 =C1 * n + C2 = O(n)
+
+3.Sum of all elements of a matrix :
+
+For this one the complexity is a polynomial equation (quadratic equation for a square matrix) 
+Matrix nxn => Tsum= an2 +bn + c
+For this Tsum if in order of n2 = O(n2)
+The above codes do not run in the IDE as they are pseudo-codes and do not resemble any programming language . 
+So from the above, we can conclude that the time of execution increases with the type of operations we make using the inputs.
+The above O -> is called Big – Oh which is an asymptotic notation. There are other asymptotic notations like theta and Ohm.
+
+How to Compare Algorithms?
+
+To compare algorithms, let us define a few objective measures:
+
+Execution times: Not a good measure as execution times are specific to a particular computer.
+A number of statements executed: Not a good measure, since the number of statements varies with the programming language as well as the style of the individual programmer.
+Ideal solution:  Let us assume that we express the running time of a given algorithm as a function of the input size n (i.e., f(n)) and compare these different functions corresponding to running times. This kind of comparison is independent of machine time, programming style, etc.
