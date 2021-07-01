@@ -2,6 +2,8 @@
 
 ## Time Complexity
 
+![1omv0tmikzeaj24z8ps2](https://user-images.githubusercontent.com/70666023/124151018-7625a580-dad5-11eb-8f13-bfe0495df534.jpeg)
+
 A lot of people get confused while understanding the concept of time-complexity, but in this article, we will explain it with a very simple example:
 
 Imagine a classroom of 100 students in which you gave your pen to one person. Now, you want that pen. Here are some ways to find the pen and what the O order is.
@@ -64,3 +66,9 @@ To compare algorithms, let us define a few objective measures:
 Execution times: Not a good measure as execution times are specific to a particular computer.
 A number of statements executed: Not a good measure, since the number of statements varies with the programming language as well as the style of the individual programmer.
 Ideal solution:  Let us assume that we express the running time of a given algorithm as a function of the input size n (i.e., f(n)) and compare these different functions corresponding to running times. This kind of comparison is independent of machine time, programming style, etc.
+
+## Resources
+
+* https://www.youtube.com/watch?v=v1SYihb4rcw&t=553s
+* https://www.youtube.com/watch?v=Q_1M2JaijjQ
+* https://www.bigocheatsheet.com/
