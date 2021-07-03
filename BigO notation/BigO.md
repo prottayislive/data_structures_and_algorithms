@@ -72,3 +72,7 @@ Ideal solution:  Let us assume that we express the running time of a given algor
 * https://www.youtube.com/watch?v=v1SYihb4rcw&t=553s
 * https://www.youtube.com/watch?v=Q_1M2JaijjQ
 * https://www.bigocheatsheet.com/
+
+## Practice and Exercises
+
+* Cracking The Coding Interview Book
