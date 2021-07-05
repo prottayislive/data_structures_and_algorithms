@@ -4,7 +4,8 @@
 
 This is my complete data structures and algorithms learning process. 
 This repo is made for my self learning. Most resources used for this are free.
-! This (✨) means recommended.
+ 
+This (✨) means recommended.
 
 ## Resources:
 Video links for specific contents are mentioned in their respective sections.
