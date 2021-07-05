@@ -17,4 +17,4 @@ Video links for specific contents are mentioned in their respective sections.
 * Introduction to Algorithms - CLRS -> last resort
 
 ## Contents
-* BigO notation
+* [BigO notation](BigO notation/BigO.md)
