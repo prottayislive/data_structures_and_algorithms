@@ -13,7 +13,7 @@ The Sparkles Emoji (✨) means recommended.
 ## Resources:
 Video links for specific contents are mentioned in their respective sections.
 ### General Resources:
-* Cracking the Coding Interview 6th ed - Gayle -> for lesson plans and basic concepts
+* [Cracking the Coding Interview 6th ed - Gayle -> for lesson plans and basic concepts](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 * Data Structures and Algorithms in Python ✨ 1st ed - Goodrich -> for in depth python specific learning 
 * Elements of the Programming Interview in Pyhton ✨ - Aziz -> for problem solving and exploring questions
 * The Algorithm Design Manual - Skiena -> for understanding complicated concepts
