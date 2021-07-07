@@ -7,6 +7,9 @@ This repo is made for my self learning. Most resources used for this are free.
  
 The Sparkles Emoji (✨) means recommended.
 
+## How to Learn DSA?
+* [How to Learn Data Structures and Algorithms](https://youtu.be/fO0Nr8_--MI)
+
 ## Resources:
 Video links for specific contents are mentioned in their respective sections.
 ### General Resources:
