@@ -19,6 +19,8 @@ Video links for specific contents are mentioned in their respective sections.
 * [The Algorithm Design Manual - Skiena -> for understanding complicated concepts](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=pd_sbs_7/146-7117112-3214425?pd_rd_w=JNweZ&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=YS938S6HF8HDZ3C3VW7T&pd_rd_r=0880b776-764d-4269-88b0-21914e3be232&pd_rd_wg=eUOYw&pd_rd_i=1849967202&psc=1)
 * [Introduction to Algorithms - CLRS -> last resort](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=pd_sbs_6/146-7117112-3214425?pd_rd_w=XGJL2&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=6K6T3JJDJ7C8750FZ7VY&pd_rd_r=5a60e2cb-f9ce-4843-89a3-acc6d3ae9851&pd_rd_wg=m77Wv&pd_rd_i=0262033844&psc=1) (Haven't used it myself but it's one of the most popular books)
 
+### For Visual Learners:
+* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 ### Practice:
 * [Leetcode](https://leetcode.com/) -> Do 10-ish questions after completing every Topic.
 * [HackerRank](https://www.hackerrank.com/) -> Regular Programming Practice
