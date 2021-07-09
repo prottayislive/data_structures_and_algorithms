@@ -22,31 +22,32 @@ NOTE : We are interested in rate of growth of time with respect to the inputs ta
 Another Example:
 Time Complexity of algorithm/code is not equal to the actual time required to execute a particular code but the number of times a statement executes. We can prove this by using time command. For example, Write code in C/C++ or any other language to find maximum between N numbers, where N varies from 10, 100, 1000, 10000. And compile that code on Linux based operating system (Fedora or Ubuntu) with below command: 
 
-gcc program.c – o program
-run it with time ./program
+        gcc program.c – o program
+        run it with time ./program
 
 You will get surprising results i.e. for N = 10 you may get 0.5ms time and for N = 10, 000 you may get 0.2 ms time. Also, you will get different timings on the different machine. So, we can say that actual time requires to execute code is machine dependent (whether you are using pentium1 or pentiun5) and also it considers network load if your machine is in LAN/WAN. Even you will not get the same timings on the same machine for the same code, the reason behind that the current network load. 
 Now, the question arises if time complexity is not the actual time require executing the code then what is it? 
 
 The answer is : Instead of measuring actual time required in executing each statement in the code, we consider how many times each statement execute. 
 For example: 
-  int main()
-  {
-    printf("Hello World");
-  }
+
+        int main()
+        {
+         printf("Hello World");
+        }
   
  In above code “Hello World!!!” print only once on a screen. So, time complexity is constant: O(1) i.e. every time constant amount of time require to execute code, no matter which operating system or which machine configurations you are using. 
 
 Now consider another code: 
-''' java
-void main()
-  {
-     int i, n = 8;
-     for (i = 1; i <= n; i++) {
-         printf("Hello Word !!!\n");
-      }
-  }
- '''
+
+        void main()
+          {
+             int i, n = 8;
+             for (i = 1; i <= n; i++) {
+                 printf("Hello Word !!!\n");
+              }
+          }
+
  In above code “Hello World!!!” will print N times. So, time complexity of above code is O(N).
  
  Tsum=1 + 2 * (n+1) + 2 * n + 1 = 4n + 4 =C1 * n + C2 = O(n)
