@@ -38,7 +38,7 @@ For example:
  In above code “Hello World!!!” print only once on a screen. So, time complexity is constant: O(1) i.e. every time constant amount of time require to execute code, no matter which operating system or which machine configurations you are using. 
 
 Now consider another code: 
-'''c++
+''' java
 void main()
   {
      int i, n = 8;
