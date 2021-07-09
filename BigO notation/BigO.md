@@ -8,12 +8,15 @@ A lot of people get confused while understanding the concept of time-complexity,
 
 Imagine a classroom of 100 students in which you gave your pen to one person. Now, you want that pen. Here are some ways to find the pen and what the O order is.
 
-O(n2): You go and ask the first person of the class, if he has the pen. Also, you ask this person about other 99 people in the classroom if they have that pen and so on, 
+### O(n2): 
+You go and ask the first person of the class, if he has the pen. Also, you ask this person about other 99 people in the classroom if they have that pen and so on, 
 This is what we call O(n2). 
 
-O(n): Going and asking each student individually is O(N). 
+### O(n): 
+Going and asking each student individually is O(N). 
 
-O(log n): Now I divide the class into two groups, then ask: “Is it on the left side, or the right side of the classroom?” Then I take that group and divide it into two and ask again, and so on. Repeat the process till you are left with one student who has your pen. This is what you mean by O(log n). 
+### O(log n):
+Now I divide the class into two groups, then ask: “Is it on the left side, or the right side of the classroom?” Then I take that group and divide it into two and ask again, and so on. Repeat the process till you are left with one student who has your pen. This is what you mean by O(log n). 
 
 I might need to do the O(n2) search if only one student knows on which student the pen is hidden. I’d use the O(n) if one student had the pen and only they knew it. I’d use the O(log n) search if all the students knew, but would only tell me if I guessed the right side. 
 
@@ -52,7 +55,7 @@ Now consider another code:
  
                                  Tsum=1 + 2 * (n+1) + 2 * n + 1 = 4n + 4 =C1 * n + C2 = O(n)
 
-3.Sum of all elements of a matrix :
+### 3.Sum of all elements of a matrix :
 
 For this one the complexity is a polynomial equation (quadratic equation for a square matrix) 
 Matrix nxn => Tsum= an2 +bn + c
@@ -61,7 +64,7 @@ The above codes do not run in the IDE as they are pseudo-codes and do not resemb
 So from the above, we can conclude that the time of execution increases with the type of operations we make using the inputs.
 The above O -> is called Big – Oh which is an asymptotic notation. There are other asymptotic notations like theta and Ohm.
 
-How to Compare Algorithms?
+### How to Compare Algorithms?
 
 To compare algorithms, let us define a few objective measures:
 
