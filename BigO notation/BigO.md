@@ -50,7 +50,7 @@ Now consider another code:
 
  In above code “Hello World!!!” will print N times. So, time complexity of above code is O(N).
  
- Tsum=1 + 2 * (n+1) + 2 * n + 1 = 4n + 4 =C1 * n + C2 = O(n)
+                                 Tsum=1 + 2 * (n+1) + 2 * n + 1 = 4n + 4 =C1 * n + C2 = O(n)
 
 3.Sum of all elements of a matrix :
 
