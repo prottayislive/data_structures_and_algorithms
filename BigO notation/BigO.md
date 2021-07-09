@@ -38,6 +38,7 @@ For example:
  In above code “Hello World!!!” print only once on a screen. So, time complexity is constant: O(1) i.e. every time constant amount of time require to execute code, no matter which operating system or which machine configurations you are using. 
 
 Now consider another code: 
+'''c++
 void main()
   {
      int i, n = 8;
@@ -45,7 +46,7 @@ void main()
          printf("Hello Word !!!\n");
       }
   }
-  
+ '''
  In above code “Hello World!!!” will print N times. So, time complexity of above code is O(N).
  
  Tsum=1 + 2 * (n+1) + 2 * n + 1 = 4n + 4 =C1 * n + C2 = O(n)
